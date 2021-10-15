@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+div {
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+    text-align: center;
+    line-height: 15px;
+    background-color: #212121;
+    width: 1350px;
+    margin: 0 auto;
+    padding: 8px 0px;
+    list-style-type: none;
+    overflow: hidden;
+}
+div a:hover{
+    color:white;
+    text-decoration: underline;
+}
